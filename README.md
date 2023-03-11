@@ -1,3 +1,2 @@
-# GAMES101
-## intro to graphics.
+# GAMES101 intro to graphics
  using visual studio 
