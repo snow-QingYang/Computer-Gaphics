@@ -1,3 +1,3 @@
 # GAMES101
- intro to graphics
-using visual studio 
+ intro to graphics //
+ using visual studio 
