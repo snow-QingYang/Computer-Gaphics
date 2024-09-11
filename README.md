@@ -1,2 +1,2 @@
-# an introductory course on computer graphics
+# An introductory course on computer graphics
 
