@@ -1,2 +1,2 @@
-# GAMES101 intro to graphics
+# an introductory course on computer graphics
 
